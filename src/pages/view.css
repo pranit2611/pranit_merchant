@@ -1,0 +1,41 @@
+.container {
+    width: 50%;
+    margin-left: 25%;
+    justify-content: center;
+  }
+  
+  .addButton {
+    background-color: #03c9d7;
+    color: white;
+    border: 2px solid #03c9d7;
+    border-radius: 4px;
+    padding: 8px;
+    margin: 2px;
+  }
+  
+  .backButton {
+    background-color: #ff5c8e;
+    color: white;
+    border: 2px solid #ff5c8e;
+    border-radius: 4px;
+    padding: 8px;
+    margin: 2px;
+  }
+  
+  .editButton {
+    background-color: #8be78b;
+    color: white;
+    border: 2px solid #8be78b;
+    border-radius: 4px;
+    padding: 8px;
+    margin: 2px;
+  }
+  
+  .backIcon {
+    size: 30px;
+    color: white;
+    /*background-color: #ff5c8e;*/
+    border-radius: 2px;
+    padding: 8px;
+  }
+  
